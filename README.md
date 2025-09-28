@@ -1,6 +1,4 @@
-I'll create a complete NetZero Solidity project for you. This will be a carbon credit management system that enables organizations to track, trade, and offset their carbon footprint on the blockchain.I've created a comprehensive NetZero Solidity project for you! Here's what I've built:
-
-## 🌱 **NetZero Smart Contract**
+**NetZero Smart Contract**
 A complete carbon credit management system with three core functions:
 
 1. **`registerOrganization()`** - Allows organizations to register on the platform
