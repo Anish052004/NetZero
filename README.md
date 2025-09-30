@@ -1,4 +1,4 @@
-**NetZero Smart Contract**
+
 A complete carbon credit management system with three core functions:
 
 1. **`registerOrganization()`** - Allows organizations to register on the platform
