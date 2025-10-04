@@ -1,4 +1,4 @@
-A complete carbon credit management system with three core functions:
+a complete carbon credit management system with three core functions:
 
 1.`registerOrganization()` - Allows organizations to register on the platform
 2. **`issueCarbonCredit()`** - Enables issuing carbon credits from environmental projects  
