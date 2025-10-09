@@ -2,7 +2,7 @@ A complete carbon credit management
 
 1.`registerOrganization()` - Allows organizations to register on the platform
 2. **`issueCarbonCredit()`** - Enables issuing carbon credits from environmental projects  
-3. **`retireCarbonCredit()`** - Allows permanent retirement of credits to offset emissions
+3. **`retireCarbonCredit()` - Allows permanent retirement of credits to offset emissions
 
 ## 📋 **Additional Features**
 - Carbon credit trading between organizations
